@@ -5,17 +5,18 @@
   class: "network"
   title: "Institute of Electrical and Electronics Engineers"
 
-- name: "IEEE Cluster 2016"
-  url: "http://ieeecluster2016.org"
+- name: "IEEE Cluster 2017"
+  url: "https://cluster17.github.io/"
   class: "network"
-  title: "IEEE Cluster 2016"
+  title: "IEEE Cluster 2017"
 
-- name: "IEEE Cluster 2015"
-  url: "http://www.mcs.anl.gov/ieeecluster2015/"
-  class: "network"
-  title: "IEEE Cluster 2015"
 
-- name: "IEEE Computer Society"
-  url: "http://www.computer.org"
+- name: "FTS Workshop 2016"
+  url: "http://www.mcs.anl.gov/events/workshops/fts/2016/"
   class: "network"
-  title: "The Community for Technology Leaders"
+  title: "FTS Workshop 2016"
+
+- name: "FTS Workshop 2015"
+  url: "http://www.mcs.anl.gov/events/workshops/fts/2015/"
+  class: "network"
+  title: "FTS Workshop 2015"
